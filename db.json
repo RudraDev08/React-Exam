@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "task": "Complete assignment the",
+      "username": "Rudra",
+      "task_type": "Personal",
+      "status": 0,
+      "date": "11-May-2015"
+    },
+    {
+      "id": "2",
+      "task": "The New Tasks",
+      "username": "Tejas",
+      "date": "18-Jan-1994",
+      "task_type": "Office",
+      "status": 0
+    },
+    {
+      "id": "3",
+      "task": "THe",
+      "username": "kezydoh",
+      "date": "11-Jan-2023",
+      "task_type": "Family",
+      "status": 0
+    },
+    {
+      "id": 4,
+      "task": "Deleniti accusamus e",
+      "username": "qoceg",
+      "date": "31-Jan-2025",
+      "task_type": "Other",
+      "status": 0
+    },
+    {
+      "id": 5,
+      "task": "Dolor sunt aliquid i",
+      "username": "hubym",
+      "date": "04-Jan-1981",
+      "task_type": "Personal",
+      "status": 0
+    }
+  ]
+}
